@@ -1,0 +1,11 @@
+/* ---------------------------------- NAVBAR ---------------------------------- */
+
+.navbar-brand img {
+  height: 25px;
+  margin-right: 8px;
+}
+
+.navbar-brand img, .navbar-brand h1 {
+  font-size: 1em;
+  display: inline;
+}
